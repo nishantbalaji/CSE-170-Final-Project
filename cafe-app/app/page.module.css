@@ -1,0 +1,30 @@
+.heading {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.wait {
+  font-weight: 400;
+  font-size: 15px;
+  padding-top: 12px;
+}
+
+.section {
+  padding-top: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  padding-bottom: 12px;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.toppadding {
+  padding-top: 80px;
+}
+.bottompadding {
+  padding-bottom: 110px;
+}

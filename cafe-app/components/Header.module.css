@@ -1,0 +1,21 @@
+.header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  padding-left: 40px;
+  padding-top: 24px;
+  background-color: #f5f5f5;
+}
+
+.headertitle {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.headersubtitle {
+  font-weight: 400;
+  font-size: 15px;
+  padding-top: 12px;
+  padding-bottom: 5px;
+}
