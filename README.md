@@ -6,3 +6,5 @@ properly demonstrate how my application would function, and store the selected f
 opted to use this framework. 
 
 This website should be constrained to an iPhone 14 Pro Max Display (430px x 932px). The app can be run by running `yarn && yarn dev` in the cafe-app directory.
+
+[Presentation](https://docs.google.com/presentation/d/1wOMQY3fWaeBa4wbdscPDvpYQXfwxcO3-T5t-Dlzz-3g/edit?usp=sharing)
